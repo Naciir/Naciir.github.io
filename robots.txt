@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naciir.github.io/sitemap.xml
